@@ -87,10 +87,6 @@ The CV Analyzer is a Streamlit-based web application that leverages an AI agent 
 └── README.md                 # This file
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
-
 ## 📄 License
 
 This project is licensed under the MIT License.
